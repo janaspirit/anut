@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "101841636395",
+    "firebase_url": "https://nute-auto-default-rtdb.firebaseio.com",
+    "project_id": "nute-auto",
+    "storage_bucket": "nute-auto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101841636395:android:290254e4b14506d35cae6e",
+        "android_client_info": {
+          "package_name": "com.anutesapplication.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQINtEOdqo-sLt8gxwOUSyv2JyRvntO4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
